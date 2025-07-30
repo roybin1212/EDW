@@ -1,10 +1,10 @@
 while True:
     
-    num = int(input("ingresa un numero"))
+    num = int(input("ingresa Un maldito número"))
 
     if num == 15:
-        print("hola mundo")
+        print("Ok")
         break
     
     else: 
-        print("el numero es incorrecto")
+        print("Python no sirve")
