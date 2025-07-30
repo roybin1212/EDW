@@ -2,7 +2,7 @@ while True:
     
     num = int(input("ingresa un numero"))
 
-    if num == 10:
+    if num == 15:
         print("hola mundo")
         break
     
